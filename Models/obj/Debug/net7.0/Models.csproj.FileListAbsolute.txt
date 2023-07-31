@@ -1,0 +1,12 @@
+D:\Desarrollos UCaldas\curso_sql\appTalleres\Models\bin\Debug\net7.0\Models.deps.json
+D:\Desarrollos UCaldas\curso_sql\appTalleres\Models\bin\Debug\net7.0\Models.dll
+D:\Desarrollos UCaldas\curso_sql\appTalleres\Models\bin\Debug\net7.0\Models.pdb
+D:\Desarrollos UCaldas\curso_sql\appTalleres\Models\obj\Debug\net7.0\Models.csproj.AssemblyReference.cache
+D:\Desarrollos UCaldas\curso_sql\appTalleres\Models\obj\Debug\net7.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollos UCaldas\curso_sql\appTalleres\Models\obj\Debug\net7.0\Models.AssemblyInfoInputs.cache
+D:\Desarrollos UCaldas\curso_sql\appTalleres\Models\obj\Debug\net7.0\Models.AssemblyInfo.cs
+D:\Desarrollos UCaldas\curso_sql\appTalleres\Models\obj\Debug\net7.0\Models.csproj.CoreCompileInputs.cache
+D:\Desarrollos UCaldas\curso_sql\appTalleres\Models\obj\Debug\net7.0\Models.dll
+D:\Desarrollos UCaldas\curso_sql\appTalleres\Models\obj\Debug\net7.0\refint\Models.dll
+D:\Desarrollos UCaldas\curso_sql\appTalleres\Models\obj\Debug\net7.0\Models.pdb
+D:\Desarrollos UCaldas\curso_sql\appTalleres\Models\obj\Debug\net7.0\ref\Models.dll
